@@ -6,3 +6,5 @@
 * The Big Short
 * 12 Monkeys
 * the curious case of benjamin button
+* Challengers
+* Jailer
