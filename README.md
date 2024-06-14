@@ -29,7 +29,7 @@ To get started with Git, you can follow these steps:
 
 
 ## Learning Updates
-    - till now I know how to clone a repository
+    - I know how to clone a repository
     - I know how to navigate to the project directory
     - I know how to explore the files
     - I know how to create a new branch
