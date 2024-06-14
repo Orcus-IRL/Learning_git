@@ -26,22 +26,22 @@ To get started with Git, you can follow these steps:
     - Open `contents.md` to see the overview.
     - Check `titles.md` for a list of titles.
     - Browse the `quotes` directory for additional materials.
-
-
 ## Learning Updates
-    - I know how to clone a repository
-    - I know how to navigate to the project directory
-    - I know how to explore the files
-    - I know how to create a new branch
-    - I know how to switch to a branch
-    - I know how to merge branches
-    - I know how to delete a branch
-    - I know how to create a new repository
-    - I know how to add a file to the repository
-    - I know how to commit changes
-    - I know how to push changes to the repository
-    - I know how to pull changes from the repository
-    - Let me know if I missed anything or if there is anything else I should know
+
+- [ ] I know how to clone a repository
+- [ ] I know how to navigate to the project directory
+- [ ] I know how to explore the files
+- [ ] I know how to create a new branch
+- [ ] I know how to switch to a branch
+- [ ] I know how to merge branches
+- [ ] I know how to delete a branch
+- [ ] I know how to create a new repository
+- [ ] I know how to add a file to the repository
+- [ ] I know how to commit changes
+- [ ] I know how to push changes to the repository
+- [ ] I know how to pull changes from the repository
+- [ ] Let me know if I missed anything or if there is anything else I should know
+
 ## Contributing
 
 We welcome contributions! Please fork the repository and create a pull request with your changes.
